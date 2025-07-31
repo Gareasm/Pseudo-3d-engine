@@ -1,0 +1,3 @@
+C:/Users/garea/CLionProjects/GrumBot/cmake-build-debug/CMakeFiles/GrumBot.dir
+C:/Users/garea/CLionProjects/GrumBot/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/garea/CLionProjects/GrumBot/cmake-build-debug/CMakeFiles/rebuild_cache.dir
