@@ -1,0 +1,5 @@
+# ninja log v6
+5	381	7751094606036144	build.ninja	1de91e63fee86934
+13	769	7750324070584176	CMakeFiles/GrumBot.dir/main.cpp.obj	a7ffb3942044b4dc
+770	939	7750324078154624	GrumBot.exe	13c3141ee60b0b69
+23	176	7750324070681415	CMakeFiles/GrumBot.dir/typedefs.cpp.obj	fcdbf133e12155ed

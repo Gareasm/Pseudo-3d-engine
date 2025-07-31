@@ -1,0 +1,58 @@
+# CLion project files
+.idea/
+
+# CMake build directories
+cmake-build-*/
+CMakeCache.txt
+CMakeFiles/
+
+# Executables
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Object files
+*.o
+*.obj
+
+# Dependency files
+*.d
+
+# User-specific files
+*.user
+*.suo
+
+# Database Tools and SQL extension data (as seen in your screenshot)
+Extensions/Database Tools and SQL/
+
+# Other common ignores for C++ projects
+# Binaries
+bin/
+build/
+out/
+
+# Log files
+*.log
+
+# Temp files
+*.tmp
+*~
+
+# Editor backup files
+*#
+.#*
+*.bak
+*.swp
+*.swo
+
+# macOS specific ignores
+.DS_Store
+
+# Windows specific ignores
+Thumbs.db
+ehthumbs.db
+
+*.xml
+.idea
+*.iml
