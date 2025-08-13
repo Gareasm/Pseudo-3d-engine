@@ -31,8 +31,6 @@ Extensions/Database Tools and SQL/
 bin/
 build/
 out/
-cmake-build-debug/
-cmake-build-*/
 
 # Log files
 *.log
@@ -54,7 +52,3 @@ cmake-build-*/
 # Windows specific ignores
 Thumbs.db
 ehthumbs.db
-
-*.xml
-.idea
-*.iml
